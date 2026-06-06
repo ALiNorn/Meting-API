@@ -1,6 +1,6 @@
 # Meting-API
 
-https://meting-api-omega.vercel.app/test
+[https://meting-api-omega.vercel.app/test](https://alin-music-blulue.vercel.app/test)
 
 ## Feature
 
